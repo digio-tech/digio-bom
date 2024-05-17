@@ -42,6 +42,16 @@
         <artifactId>play-services-mlkit-face-detection</artifactId>
         <version>17.1.0</version>
       </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>sdk_ml_camera</artifactId>
+        <version>v5.0.0.6</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>sdk_native_camera</artifactId>
+        <version>v5.0.0.6</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 </project>

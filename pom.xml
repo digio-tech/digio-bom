@@ -2,9 +2,28 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
-  <artifactId>bom</artifactId>
+  <artifactId>digio-bom</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
+  <name>Digio Master SDK</name>
+  <description>Bill of Materials (BoM) for Digio libraries</description>
+  <url>https://github.com/digio-tech/digio-bom</url>
+  <developers>
+    <developer>
+      <id>Digio</id>
+      <name>Abhishekh Kumar Sharma</name>
+      <email>abhishekh.kumar@digio.in</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com:digio-tech/digio-bom.git</connection>
+    <developerConnection>scm:git:ssh://github.com:digio-tech/digio-bom.git</developerConnection>
+    <url>https://github.com/digio-tech/digio-bom</url>
+  </scm>
+  <issueManagement>
+    <system>GitHub Issues</system>
+    <url>https://github.com/digio-tech/digio-bom/issues</url>
+  </issueManagement>
   <dependencyManagement>
     <dependencies>
       <dependency>

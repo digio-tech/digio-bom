@@ -2,34 +2,45 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
-  <artifactId>digio-bom</artifactId>
+  <artifactId>bom</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
-  <name>Digio Master SDK</name>
-  <description>Bill of Materials (BoM) for Digio libraries</description>
-  <url>https://github.com/digio-tech/digio-bom</url>
-  <developers>
-    <developer>
-      <id>Digio</id>
-      <name>Abhishekh Kumar Sharma</name>
-      <email>abhishekh.kumar@digio.in</email>
-    </developer>
-  </developers>
-  <scm>
-    <connection>scm:git:git://github.com:digio-tech/digio-bom.git</connection>
-    <developerConnection>scm:git:ssh://github.com:digio-tech/digio-bom.git</developerConnection>
-    <url>https://github.com/digio-tech/digio-bom</url>
-  </scm>
-  <issueManagement>
-    <system>GitHub Issues</system>
-    <url>https://github.com/digio-tech/digio-bom/issues</url>
-  </issueManagement>
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>Digio Core Sdk</groupId>
-        <artifactId>digio_gateway</artifactId>
-        <version>unspecified</version>
+        <groupId>com.afollestad.material-dialogs</groupId>
+        <artifactId>core</artifactId>
+        <version>0.9.6.0</version>
+      </dependency>
+      <dependency>
+        <groupId>androidx.camera</groupId>
+        <artifactId>camera-core</artifactId>
+        <version>1.2.2</version>
+      </dependency>
+      <dependency>
+        <groupId>androidx.camera</groupId>
+        <artifactId>camera-camera2</artifactId>
+        <version>1.2.2</version>
+      </dependency>
+      <dependency>
+        <groupId>androidx.camera</groupId>
+        <artifactId>camera-lifecycle</artifactId>
+        <version>1.2.2</version>
+      </dependency>
+      <dependency>
+        <groupId>androidx.camera</groupId>
+        <artifactId>camera-view</artifactId>
+        <version>1.2.2</version>
+      </dependency>
+      <dependency>
+        <groupId>androidx.preference</groupId>
+        <artifactId>preference</artifactId>
+        <version>1.2.0</version>
+      </dependency>
+      <dependency>
+        <groupId>com.google.android.gms</groupId>
+        <artifactId>play-services-mlkit-face-detection</artifactId>
+        <version>17.1.0</version>
       </dependency>
     </dependencies>
   </dependencyManagement>

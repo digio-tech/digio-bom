@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0.4</version>
   <packaging>pom</packaging>
   <name>Digio Master SDK</name>
   <description>Bill of Materials (BoM) for Digio libraries</description>

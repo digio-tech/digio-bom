@@ -30,7 +30,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>digio_permissions</artifactId>
-        <version>v5.0.0.1</version>
+        <version>v5.0.0.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -46,6 +46,16 @@
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
         <version>v5.0.0.4</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>esign_otp</artifactId>
+        <version>v5.0.0.2</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>esign_biometrics</artifactId>
+        <version>v5.0.0.1</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>

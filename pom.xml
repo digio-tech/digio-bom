@@ -35,7 +35,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_native_camera</artifactId>
-        <version>v5.0.0.11</version>
+        <version>v5.0.0.12</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

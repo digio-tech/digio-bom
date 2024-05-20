@@ -10,7 +10,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.0.0.3</version>
+        <version>v5.0.0.4</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -50,12 +50,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_otp</artifactId>
-        <version>v5.0.0.3</version>
+        <version>v5.0.0.4</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.0.2</version>
+        <version>v5.0.0.3</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>

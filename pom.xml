@@ -192,6 +192,11 @@
         <artifactId>camera-view</artifactId>
         <version>1.2.2</version>
       </dependency>
+      <dependency>
+        <groupId>androidx.cardview</groupId>
+        <artifactId>cardview</artifactId>
+        <version>1.0.0</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 </project>

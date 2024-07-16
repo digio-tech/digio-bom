@@ -30,7 +30,17 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>digio_permissions</artifactId>
-        <version>v5.0.0.3</version>
+        <version>v5.0.0.1</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>image_processor</artifactId>
+        <version>v5.0.0.1</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>sdk_upi</artifactId>
+        <version>v5.0.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -39,8 +49,13 @@
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
+        <artifactId>esign_mandate</artifactId>
+        <version>v5.0.0.1</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.0.7</version>
+        <version>v5.0.0.8</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -200,22 +215,27 @@
       <dependency>
         <groupId>androidx.camera</groupId>
         <artifactId>camera-core</artifactId>
-        <version>1.2.2</version>
+        <version>1.3.3</version>
       </dependency>
       <dependency>
         <groupId>androidx.camera</groupId>
         <artifactId>camera-camera2</artifactId>
-        <version>1.2.2</version>
+        <version>1.3.3</version>
       </dependency>
       <dependency>
         <groupId>androidx.camera</groupId>
         <artifactId>camera-lifecycle</artifactId>
-        <version>1.2.2</version>
+        <version>1.3.3</version>
       </dependency>
       <dependency>
         <groupId>androidx.camera</groupId>
         <artifactId>camera-view</artifactId>
-        <version>1.2.2</version>
+        <version>1.3.3</version>
+      </dependency>
+      <dependency>
+        <groupId>androidx.camera</groupId>
+        <artifactId>camera-video</artifactId>
+        <version>1.3.3</version>
       </dependency>
       <dependency>
         <groupId>androidx.cardview</groupId>

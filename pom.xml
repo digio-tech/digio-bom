@@ -10,7 +10,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.0.0.4</version>
+        <version>v5.0.0.5</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -183,9 +183,9 @@
         <version>2.5.3</version>
       </dependency>
       <dependency>
-        <groupId>com.google.android.gms</groupId>
-        <artifactId>play-services-mlkit-face-detection</artifactId>
-        <version>17.1.0</version>
+        <groupId>com.google.mlkit</groupId>
+        <artifactId>face-detection</artifactId>
+        <version>16.1.6</version>
       </dependency>
       <dependency>
         <groupId>com.google.android.gms</groupId>

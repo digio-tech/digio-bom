@@ -35,7 +35,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_native_camera</artifactId>
-        <version>v5.0.0.12</version>
+        <version>v5.0.0.13</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -50,12 +50,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_otp</artifactId>
-        <version>v5.0.0.4</version>
+        <version>v5.0.0.5</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.0.3</version>
+        <version>v5.0.0.4</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>

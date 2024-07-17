@@ -35,7 +35,7 @@ Bom version - 1.0.1
     androidx.lifecycle:lifecycle-viewmodel-ktx                                   2.5.1
     androidx.navigation:navigation-fragment-ktx                                  2.5.3
     androidx.navigation:navigation-ui-ktx                                        2.5.3
-    com.google.android.gms:play-services-mlkit-face-detection                    17.1.0
+    com.google.mlkit:face-detection                                              16.1.6
     com.google.android.gms:play-services-location                                21.2.0
     com.scottyab:rootbeer-lib                                                    0.1.0
     com.afollestad.material-dialogs:core                                         0.9.6.0
@@ -43,8 +43,16 @@ Bom version - 1.0.1
     androidx.exifinterface:exifinterface                                         1.3.7
     androidx.preference:preference-ktx                                           1.2.1
     
-    androidx.camera:camera-core                                                  1.2.2
-    androidx.camera:camera-camera2                                               1.2.2
-    androidx.camera:camera-lifecycle                                             1.2.2
-    androidx.camera:camera-view                                                  1.2.2
+    androidx.camera:camera-core                                                  1.3.3
+    androidx.camera:camera-camera2                                               1.3.3
+    androidx.camera:camera-lifecycle                                             1.3.3
+    androidx.camera:camera-view                                                  1.3.3
+    androidx.camera:camera-video                                                 1.3.3
+
+    com.squareup.retrofit2:retrofit                                              2.9.0  
+    org.jetbrains.kotlinx:kotlinx-coroutines-android                             1.8.0   
+    org.jetbrains.kotlinx:kotlinx-coroutines-core                                1.8.0
+    androidx.fragment:fragment-ktx                                               1.7.1 
+    androidx.lifecycle:lifecycle-livedata-ktx                                    2.5.1
+    com.squareup.retrofit2:converter-gson                                        2.9.0
 ```

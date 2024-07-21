@@ -60,7 +60,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
-        <version>v5.0.0.5</version>
+        <version>v5.0.0.6</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

@@ -10,7 +10,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.0.0.9</version>
+        <version>v5.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -60,7 +60,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
-        <version>v5.0.0.6</version>
+        <version>v5.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

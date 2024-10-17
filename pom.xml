@@ -55,7 +55,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.1.1</version>
+        <version>v5.0.1.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

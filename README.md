@@ -2,7 +2,7 @@
 
 **Version Mapping**
 
-Bom version - 1.0.1
+Bom version - 1.0.3
 ```
     com.github.digio-tech:gateway                                                v5.0.1.1
     com.github.digio-tech:protean-esign                                          v3.2
@@ -10,7 +10,7 @@ Bom version - 1.0.1
     com.github.digio-tech:cvl_rdservice                                          v1.0.0
     com.github.digio-tech:digio_permissions                                      v5.0.1.4
     com.github.digio-tech:sdk_native_camera                                      v5.0.1.1
-    com.github.digio-tech:sdk_ml_camera                                          v5.0.1.1
+    com.github.digio-tech:sdk_ml_camera                                          v5.0.1.3
     com.github.digio-tech:sdk_offlinekyc                                         v5.0.1.1
     com.github.digio-tech:esign_otp                                              v5.0.1.1
     com.github.digio-tech:esign_biometrics                                       v5.0.1.1

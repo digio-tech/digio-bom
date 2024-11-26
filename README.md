@@ -4,7 +4,7 @@
 
 Bom version - 1.0.3
 ```
-    com.github.digio-tech:gateway                                                v5.0.1.1
+    com.github.digio-tech:gateway                                                v5.0.2
     com.github.digio-tech:protean-esign                                          v3.2
     com.github.digio-tech:cvl_esign                                              v1.0.1
     com.github.digio-tech:cvl_rdservice                                          v1.0.0

@@ -30,12 +30,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>digio_permissions</artifactId>
-        <version>v5.0.1.4</version>
+        <version>v5.0.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>image_processor</artifactId>
-        <version>v5.0.1.2</version>
+        <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

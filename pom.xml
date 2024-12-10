@@ -40,12 +40,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_upi</artifactId>
-        <version>v5.0.1.1</version>
+        <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_native_camera</artifactId>
-        <version>v5.0.1.1</version>
+        <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -55,22 +55,22 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.1.4</version>
+        <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
-        <version>v5.0.1.1</version>
+        <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_otp</artifactId>
-        <version>v5.0.1.1</version>
+        <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.1.1</version>
+        <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>

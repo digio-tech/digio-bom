@@ -4,17 +4,17 @@
 
 Bom version - 1.0.3
 ```
-    com.github.digio-tech:gateway                                                v5.0.2
+    com.github.digio-tech:gateway                                                v5.0.4
     com.github.digio-tech:protean-esign                                          v3.2
     com.github.digio-tech:cvl_esign                                              v1.0.1
     com.github.digio-tech:cvl_rdservice                                          v1.0.0
-    com.github.digio-tech:digio_permissions                                      v5.0.1.4
-    com.github.digio-tech:sdk_native_camera                                      v5.0.1.1
-    com.github.digio-tech:sdk_ml_camera                                          v5.0.1.4
-    com.github.digio-tech:sdk_offlinekyc                                         v5.0.1.1
-    com.github.digio-tech:esign_otp                                              v5.0.1.1
-    com.github.digio-tech:esign_biometrics                                       v5.0.1.1
-    com.github.digio-tech:image_processor                                        v5.0.1.2
+    com.github.digio-tech:digio_permissions                                      v5.0.2
+    com.github.digio-tech:sdk_native_camera                                      v5.0.3
+    com.github.digio-tech:sdk_ml_camera                                          v5.0.3
+    com.github.digio-tech:sdk_offlinekyc                                         v5.0.3
+    com.github.digio-tech:esign_otp                                              v5.0.3
+    com.github.digio-tech:esign_biometrics                                       v5.0.3
+    com.github.digio-tech:image_processor                                        v5.0.3
 
     androidx.activity:activity-ktx                                               1.9.0
     androidx.appcompat:appcompat                                                 1.6.1

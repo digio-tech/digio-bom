@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.6</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>

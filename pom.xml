@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -65,12 +65,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_otp</artifactId>
-        <version>v5.0.3</version>
+        <version>v5.0.4</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.3</version>
+        <version>v5.0.4</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>

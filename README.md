@@ -2,7 +2,7 @@
 
 **Version Mapping**
 
-Bom version - 1.0.3
+Bom version - 1.0.7
 ```
     com.github.digio-tech:gateway                                                v5.0.4
     com.github.digio-tech:protean-esign                                          v3.2
@@ -12,8 +12,8 @@ Bom version - 1.0.3
     com.github.digio-tech:sdk_native_camera                                      v5.0.3
     com.github.digio-tech:sdk_ml_camera                                          v5.0.3
     com.github.digio-tech:sdk_offlinekyc                                         v5.0.3
-    com.github.digio-tech:esign_otp                                              v5.0.3
-    com.github.digio-tech:esign_biometrics                                       v5.0.3
+    com.github.digio-tech:esign_otp                                              v5.0.4
+    com.github.digio-tech:esign_biometrics                                       v5.0.4
     com.github.digio-tech:image_processor                                        v5.0.3
 
     androidx.activity:activity-ktx                                               1.9.0

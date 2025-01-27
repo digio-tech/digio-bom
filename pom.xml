@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.7</version>
+  <version>1.0.8</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -60,7 +60,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
-        <version>v5.0.3</version>
+        <version>v5.0.4</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

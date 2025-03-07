@@ -2,9 +2,9 @@
 
 **Version Mapping**
 
-Bom version - 1.0.10
+Bom version - 1.0.11
 ```
-    com.github.digio-tech:gateway                                                v5.0.6
+    com.github.digio-tech:gateway                                                v5.0.7
     com.github.digio-tech:protean-esign                                          v3.2
     com.github.digio-tech:cvl_esign                                              v1.0.1
     com.github.digio-tech:cvl_rdservice                                          v1.0.0

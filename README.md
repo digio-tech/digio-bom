@@ -2,7 +2,7 @@
 
 **Version Mapping**
 
-Bom version - 1.0.11
+Bom version - 1.0.12
 ```
     com.github.digio-tech:gateway                                                v5.0.7
     com.github.digio-tech:protean-esign                                          v3.2
@@ -15,7 +15,7 @@ Bom version - 1.0.11
     com.github.digio-tech:esign_otp                                              v5.0.5
     com.github.digio-tech:esign_biometrics                                       v5.0.5
     com.github.digio-tech:image_processor                                        v5.0.3
-    com.github.digio-tech:esign_mandate                                          v5.0.3
+    com.github.digio-tech:esign_mandate                                          v5.0.4
     com.github.digio-tech:sdk_upi                                                v5.0.4
 
     androidx.activity:activity-ktx                                               1.9.0

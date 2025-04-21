@@ -3,14 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.14</version>
+  <version>1.0.15</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.0.9</version>
+        <version>v5.1.0</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -30,47 +30,47 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>digio_permissions</artifactId>
-        <version>v5.0.2</version>
-      </dependency>
-      <dependency>
-        <groupId>com.github.digio-tech</groupId>
-        <artifactId>image_processor</artifactId>
         <version>v5.0.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
-        <artifactId>sdk_upi</artifactId>
-        <version>v5.0.5</version>
-      </dependency>
-      <dependency>
-        <groupId>com.github.digio-tech</groupId>
-        <artifactId>sdk_native_camera</artifactId>
-        <version>v5.0.5</version>
-      </dependency>
-      <dependency>
-        <groupId>com.github.digio-tech</groupId>
-        <artifactId>esign_mandate</artifactId>
+        <artifactId>image_processor</artifactId>
         <version>v5.0.4</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
-        <artifactId>sdk_ml_camera</artifactId>
+        <artifactId>sdk_upi</artifactId>
         <version>v5.0.6</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>sdk_native_camera</artifactId>
+        <version>v5.0.6</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>esign_mandate</artifactId>
+        <version>v5.0.5</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>sdk_ml_camera</artifactId>
+        <version>v5.0.7</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
-        <version>v5.0.6</version>
+        <version>v5.0.7</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_otp</artifactId>
-        <version>v5.0.6</version>
+        <version>v5.0.7</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.6</version>
+        <version>v5.0.7</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>
@@ -195,12 +195,13 @@
       <dependency>
         <groupId>com.scottyab</groupId>
         <artifactId>rootbeer-lib</artifactId>
-        <version>0.1.0</version>
+        <version>0.1.1</version>
       </dependency>
       <dependency>
         <groupId>com.afollestad.material-dialogs</groupId>
         <artifactId>core</artifactId>
-        <version>0.9.6.0</version>
+        <version>3.3.0</version>
+<!--        <version>0.9.6.0</version>-->
       </dependency>
       <dependency>
         <groupId>androidx.exifinterface</groupId>

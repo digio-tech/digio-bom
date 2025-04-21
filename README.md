@@ -2,21 +2,21 @@
 
 **Version Mapping**
 
-Bom version - 1.0.14
+Bom version - 1.0.15
 ```
-    com.github.digio-tech:gateway                                                v5.0.9
+    com.github.digio-tech:gateway                                                v5.1.0
     com.github.digio-tech:protean-esign                                          v3.2
     com.github.digio-tech:cvl_esign                                              v1.0.1
     com.github.digio-tech:cvl_rdservice                                          v1.0.0
-    com.github.digio-tech:digio_permissions                                      v5.0.2
-    com.github.digio-tech:sdk_native_camera                                      v5.0.5
-    com.github.digio-tech:sdk_ml_camera                                          v5.0.6
-    com.github.digio-tech:sdk_offlinekyc                                         v5.0.6
-    com.github.digio-tech:esign_otp                                              v5.0.6
-    com.github.digio-tech:esign_biometrics                                       v5.0.6
-    com.github.digio-tech:image_processor                                        v5.0.3
-    com.github.digio-tech:esign_mandate                                          v5.0.4
-    com.github.digio-tech:sdk_upi                                                v5.0.5
+    com.github.digio-tech:digio_permissions                                      v5.0.3
+    com.github.digio-tech:sdk_native_camera                                      v5.0.6
+    com.github.digio-tech:sdk_ml_camera                                          v5.0.7
+    com.github.digio-tech:sdk_offlinekyc                                         v5.0.7
+    com.github.digio-tech:esign_otp                                              v5.0.7
+    com.github.digio-tech:esign_biometrics                                       v5.0.7
+    com.github.digio-tech:image_processor                                        v5.0.4
+    com.github.digio-tech:esign_mandate                                          v5.0.5
+    com.github.digio-tech:sdk_upi                                                v5.0.6
 
     androidx.activity:activity-ktx                                               1.9.0
     androidx.appcompat:appcompat                                                 1.6.1
@@ -40,8 +40,8 @@ Bom version - 1.0.14
     androidx.navigation:navigation-ui-ktx                                        2.5.3
     com.google.mlkit:face-detection                                              16.1.6
     com.google.android.gms:play-services-location                                21.2.0
-    com.scottyab:rootbeer-lib                                                    0.1.0
-    com.afollestad.material-dialogs:core                                         0.9.6.0
+    com.scottyab:rootbeer-lib                                                    0.1.1
+    com.afollestad.material-dialogs:core                                         3.3.0
 
     androidx.exifinterface:exifinterface                                         1.3.7
     androidx.preference:preference-ktx                                           1.2.1

@@ -20,12 +20,17 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>cvl_esign</artifactId>
-        <version>v1.0.1</version>
+        <version>v5.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>cvl_rdservice</artifactId>
-        <version>v1.0.0</version>
+        <version>v5.0.1</version>
+      </dependency>
+      <dependency>
+        <groupId>org.simpleframework</groupId>
+        <artifactId>simple-xml</artifactId>
+        <version>v2.7.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

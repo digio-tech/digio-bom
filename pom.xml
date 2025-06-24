@@ -19,7 +19,7 @@
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
-        <artifactId>sdk_stateless</artifactId>
+        <artifactId>stateless</artifactId>
         <version>v6.0.1.1</version>
       </dependency>
       <dependency>

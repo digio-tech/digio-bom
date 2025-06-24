@@ -14,7 +14,7 @@
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
-        <artifactId>discover</artifactId>
+        <artifactId>sdk_discovery</artifactId>
         <version>v6.0.1.1</version>
       </dependency>
       <dependency>

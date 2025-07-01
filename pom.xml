@@ -15,7 +15,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_discovery</artifactId>
-        <version>v6.0.1.1</version>
+        <version>v6.0.1.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -30,7 +30,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>cvl_esign</artifactId>
-        <version>v5.0.1.4</version>
+        <version>v5.0.1.5</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -55,7 +55,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_native_camera</artifactId>
-        <version>v6.0.1.1</version>
+        <version>v6.0.1.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -65,7 +65,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v6.0.1.1</version>
+        <version>v6.0.1.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -75,12 +75,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_otp</artifactId>
-        <version>v6.0.1.1</version>
+        <version>v6.0.1.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v6.0.1.1</version>
+        <version>v6.0.1.2</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>
@@ -252,6 +252,11 @@
         <groupId>org.simpleframework</groupId>
         <artifactId>simple-xml</artifactId>
         <version>2.7.1</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.bumptech.glide</groupId>
+        <artifactId>glide</artifactId>
+        <version>4.16.0</version>
       </dependency>
       <dependency>
         <groupId>androidx.cardview</groupId>

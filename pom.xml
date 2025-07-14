@@ -75,7 +75,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.8.1</version>
+        <version>v5.0.8.2</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>

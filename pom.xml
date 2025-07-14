@@ -10,7 +10,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.1.0</version>
+        <version>v5.1.1.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -20,7 +20,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>cvl_esign</artifactId>
-        <version>v5.0.1.4</version>
+        <version>v5.0.1.6</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -60,7 +60,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.8</version>
+        <version>v5.0.9.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -75,7 +75,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.8.1</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>

@@ -39,6 +39,7 @@ Bom version - 1.0.15
     androidx.navigation:navigation-fragment-ktx                                  2.5.3
     androidx.navigation:navigation-ui-ktx                                        2.5.3
     com.google.mlkit:face-detection                                              16.1.6
+    com.google.android.gms:play-services-mlkit-face-detection                    17.1.0
     com.google.android.gms:play-services-location                                21.2.0
     com.scottyab:rootbeer-lib                                                    0.1.1
     com.afollestad.material-dialogs:core                                         3.3.0

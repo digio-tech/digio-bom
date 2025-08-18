@@ -60,7 +60,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.9.1</version>
+        <version>v5.0.10</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -192,7 +192,12 @@
         <artifactId>navigation-ui-ktx</artifactId>
         <version>2.5.3</version>
       </dependency>
-      <dependency>
+        <dependency>
+            <groupId>com.google.android.gms</groupId>
+            <artifactId>play-services-mlkit-face-detection</artifactId>
+            <version>17.1.0</version>
+        </dependency>
+        <dependency>
         <groupId>com.google.mlkit</groupId>
         <artifactId>face-detection</artifactId>
         <version>16.1.6</version>

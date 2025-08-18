@@ -3,14 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.15</version>
+  <version>1.0.23</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.1.0</version>
+        <version>v5.1.2</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -20,12 +20,17 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>cvl_esign</artifactId>
-        <version>v1.0.1</version>
+        <version>v5.0.1.6</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>cvl_rdservice</artifactId>
-        <version>v1.0.0</version>
+        <version>v5.0.1.1</version>
+      </dependency>
+      <dependency>
+        <groupId>org.simpleframework</groupId>
+        <artifactId>simple-xml</artifactId>
+        <version>2.7.1</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -55,12 +60,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.10</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.8</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -70,7 +75,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_biometrics</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.8.2</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.bumptech.glide</groupId>
+        <artifactId>glide</artifactId>
+        <version>4.16.0</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>
@@ -182,7 +192,12 @@
         <artifactId>navigation-ui-ktx</artifactId>
         <version>2.5.3</version>
       </dependency>
-      <dependency>
+        <dependency>
+            <groupId>com.google.android.gms</groupId>
+            <artifactId>play-services-mlkit-face-detection</artifactId>
+            <version>17.1.0</version>
+        </dependency>
+        <dependency>
         <groupId>com.google.mlkit</groupId>
         <artifactId>face-detection</artifactId>
         <version>16.1.6</version>

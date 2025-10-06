@@ -10,7 +10,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.1.2</version>
+        <version>v5.1.3</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -55,7 +55,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_mandate</artifactId>
-        <version>v5.0.5</version>
+        <version>v5.0.6</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

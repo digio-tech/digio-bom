@@ -10,7 +10,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.1.7</version>
+        <version>v5.1.9</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -55,12 +55,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>esign_mandate</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.8</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.11</version>
+        <version>v5.0.12</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

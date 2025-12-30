@@ -10,7 +10,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>gateway</artifactId>
-        <version>v5.1.12</version>
+        <version>v5.1.14</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -35,12 +35,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>digio_permissions</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.8</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>image_processor</artifactId>
-        <version>v5.0.5</version>
+        <version>v5.0.6</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -50,7 +50,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_native_camera</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.9</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -60,7 +60,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.0.12</version>
+        <version>v5.0.13</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

@@ -64,6 +64,26 @@
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
+        <artifactId>digio_api_client</artifactId>
+        <version>v5.0.1</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
+        <artifactId>two_way_video</artifactId>
+        <version>v5.0.1</version>
+      </dependency>
+      <dependency>
+        <groupId>live.videosdk</groupId>
+        <artifactId>rtc-android-sdk</artifactId>
+        <version>0.6.0</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.amitshekhariitbhu.Fast-Android-Networking</groupId>
+        <artifactId>android-networking</artifactId>
+        <version>1.0.4</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_offlinekyc</artifactId>
         <version>v5.0.9</version>
       </dependency>
@@ -80,7 +100,12 @@
       <dependency>
         <groupId>com.github.bumptech.glide</groupId>
         <artifactId>glide</artifactId>
-        <version>4.16.0</version>
+        <version>5.0.5</version>
+      </dependency>
+       <dependency>
+        <groupId>com.github.bumptech.glide</groupId>
+        <artifactId>compiler</artifactId>
+        <version>5.0.5</version>
       </dependency>
       <dependency>
         <groupId>androidx.activity</groupId>
@@ -170,7 +195,7 @@
       <dependency>
         <groupId>androidx.lifecycle</groupId>
         <artifactId>lifecycle-viewmodel-ktx</artifactId>
-        <version>2.5.1</version>
+        <version>2.9.4</version>
       </dependency>
       <dependency>
         <groupId>androidx.navigation</groupId>

@@ -60,12 +60,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.1.18</version>
+        <version>v5.1.19</version>
       </dependency>
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>api_client</artifactId>
-            <version>v5.0.5</version>
+            <version>v5.0.6</version>
         </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

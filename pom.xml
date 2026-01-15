@@ -40,7 +40,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>image_processor</artifactId>
-        <version>v5.0.6</version>
+        <version>v5.0.7</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -60,8 +60,13 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.1.19</version>
+        <version>v5.1.20</version>
       </dependency>
+        <dependency>
+            <groupId>com.github.digio-tech</groupId>
+            <artifactId>digioStateless</artifactId>
+            <version>v5.0.1</version>
+        </dependency>
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>api_client</artifactId>

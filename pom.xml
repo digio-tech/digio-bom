@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.54</version>
+  <version>1.0.57</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -40,7 +40,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>image_processor</artifactId>
-        <version>v5.0.6</version>
+        <version>v5.0.8</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

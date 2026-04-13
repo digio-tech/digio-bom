@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.62</version>
+  <version>1.0.63</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -35,12 +35,12 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>digio_permissions</artifactId>
-        <version>v5.0.8</version>
+        <version>v5.0.9</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>image_processor</artifactId>
-        <version>v5.0.8</version>
+        <version>v5.0.9</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -60,17 +60,17 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_ml_camera</artifactId>
-        <version>v5.1.23</version>
+        <version>v5.1.24</version>
       </dependency>
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>digioStateless</artifactId>
-            <version>v5.0.3</version>
+            <version>v5.0.4</version>
         </dependency>
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>api_client</artifactId>
-            <version>v5.0.6</version>
+            <version>v5.0.7</version>
         </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

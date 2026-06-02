@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.70</version>
+  <version>1.0.71</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -45,7 +45,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_upi</artifactId>
-        <version>v5.0.7</version>
+        <version>v5.0.8</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -65,12 +65,12 @@
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>digioStateless</artifactId>
-            <version>v5.0.6</version>
+            <version>v5.0.7</version>
         </dependency>
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>api_client</artifactId>
-            <version>v5.0.8</version>
+            <version>v5.0.9</version>
         </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -105,7 +105,7 @@
       <dependency>
         <groupId>com.google.android.material</groupId>
         <artifactId>material</artifactId>
-        <version>1.12.0</version>
+        <version>1.13.0</version>
       </dependency>
       <dependency>
         <groupId>androidx.databinding</groupId>

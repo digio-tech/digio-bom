@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.71</version>
+  <version>1.0.72</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -45,7 +45,7 @@
       <dependency>
         <groupId>com.github.digio-tech</groupId>
         <artifactId>sdk_upi</artifactId>
-        <version>v5.0.8</version>
+        <version>v5.0.11</version>
       </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>

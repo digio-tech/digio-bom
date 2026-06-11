@@ -2,7 +2,7 @@
 
 **Version Mapping**
 
-Bom version - 1.0.72
+Bom version - 1.0.75
 ```
     com.github.digio-tech:gateway                                                v5.1.6
     com.github.digio-tech:protean-esign                                          v3.12

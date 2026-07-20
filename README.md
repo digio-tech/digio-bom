@@ -2,21 +2,21 @@
 
 **Version Mapping**
 
-Bom version - 1.0.23
+Bom version - 1.0.75
 ```
-    com.github.digio-tech:gateway                                                v5.1.0
-    com.github.digio-tech:protean-esign                                          v3.2
-    com.github.digio-tech:cvl_esign                                              v1.0.1
-    com.github.digio-tech:cvl_rdservice                                          v1.0.0
+    com.github.digio-tech:gateway                                                v5.1.6
+    com.github.digio-tech:protean-esign                                          v3.12
+    com.github.digio-tech:cvl_esign                                              v5.0.3
+    com.github.digio-tech:cvl_rdservice                                          v5.0.3
     com.github.digio-tech:digio_permissions                                      v5.0.3
-    com.github.digio-tech:sdk_native_camera                                      v5.0.6
-    com.github.digio-tech:sdk_ml_camera                                          v5.0.8
-    com.github.digio-tech:sdk_offlinekyc                                         v5.0.7
-    com.github.digio-tech:esign_otp                                              v5.0.7
-    com.github.digio-tech:esign_biometrics                                       v5.0.7
-    com.github.digio-tech:image_processor                                        v5.0.4
-    com.github.digio-tech:esign_mandate                                          v5.0.5
-    com.github.digio-tech:sdk_upi                                                v5.0.6
+    com.github.digio-tech:sdk_native_camera                                      v5.0.7
+    com.github.digio-tech:sdk_ml_camera                                          v5.0.11
+    com.github.digio-tech:sdk_offlinekyc                                         v5.0.9
+    com.github.digio-tech:esign_otp                                              v5.0.8
+    com.github.digio-tech:esign_biometrics                                       v5.0.9
+    com.github.digio-tech:image_processor                                        v5.0.5
+    com.github.digio-tech:esign_mandate                                          v5.0.7
+    com.github.digio-tech:sdk_upi                                                v5.0.7
 
     androidx.activity:activity-ktx                                               1.9.0
     androidx.appcompat:appcompat                                                 1.6.1
@@ -38,7 +38,7 @@ Bom version - 1.0.23
     androidx.lifecycle:lifecycle-viewmodel-ktx                                   2.5.1
     androidx.navigation:navigation-fragment-ktx                                  2.5.3
     androidx.navigation:navigation-ui-ktx                                        2.5.3
-    com.google.mlkit:face-detection                                              16.1.6
+    com.google.mlkit:face-detection                                              16.1.7
     com.google.android.gms:play-services-mlkit-face-detection                    17.1.0
     com.google.android.gms:play-services-location                                21.2.0
     com.scottyab:rootbeer-lib                                                    0.1.1
@@ -47,11 +47,11 @@ Bom version - 1.0.23
     androidx.exifinterface:exifinterface                                         1.3.7
     androidx.preference:preference-ktx                                           1.2.1
     
-    androidx.camera:camera-core                                                  1.3.3
-    androidx.camera:camera-camera2                                               1.3.3
-    androidx.camera:camera-lifecycle                                             1.3.3
-    androidx.camera:camera-view                                                  1.3.3
-    androidx.camera:camera-video                                                 1.3.3
+    androidx.camera:camera-core                                                  1.5.1
+    androidx.camera:camera-camera2                                               1.5.1
+    androidx.camera:camera-lifecycle                                             1.5.1
+    androidx.camera:camera-view                                                  1.5.1
+    androidx.camera:camera-video                                                 1.5.1
 
     com.squareup.retrofit2:retrofit                                              2.9.0  
     org.jetbrains.kotlinx:kotlinx-coroutines-android                             1.8.0   

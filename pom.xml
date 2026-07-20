@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.digio.sdk</groupId>
   <artifactId>digio-bom</artifactId>
-  <version>1.0.82</version>
+  <version>1.0.83</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -70,7 +70,7 @@
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>api_client</artifactId>
-            <version>v5.0.13</version>
+            <version>v5.0.14</version>
         </dependency>
       <dependency>
         <groupId>com.github.digio-tech</groupId>
@@ -271,7 +271,7 @@
         <dependency>
             <groupId>com.github.digio-tech</groupId>
             <artifactId>digio_eKyc</artifactId>
-            <version>v1.0.0</version>
+            <version>v1.0.1</version>
         </dependency>
     </dependencies>
   </dependencyManagement>
